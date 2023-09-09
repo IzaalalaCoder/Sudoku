@@ -1,5 +1,4 @@
-# Sudoku
-
+# Sudoku -- NON TERMINEE
 Déjà très important de mettre en évidence les créateurs de ce logiciel ! 
 -- Réalisé par
   - Yohann
