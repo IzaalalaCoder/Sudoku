@@ -1,0 +1,857 @@
+<Racine>
+    <Quatre>
+        <Grid>
+            <R1>
+                <C2-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-4 fixedByGrid="true" fixedByUser="false" value="3" candidates="" />
+            </R1>
+            <R2>
+                <C3-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-2 fixedByGrid="true" fixedByUser="false" value="4" candidates="" />
+                <C3-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R2>
+            <R3>
+                <C4-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-3 fixedByGrid="true" fixedByUser="false" value="3" candidates="" />
+                <C4-4 fixedByGrid="true" fixedByUser="false" value="2" candidates="" />
+            </R3>
+            <R4>
+                <C5-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R4>
+        </Grid>
+    </Quatre>
+    <Six>
+        <Grid>
+            <R1>
+                <C2-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-3 fixedByGrid="true" fixedByUser="false" value="5" candidates="" />
+                <C2-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-6 fixedByGrid="true" fixedByUser="false" value="2" candidates="" />
+            </R1>
+            <R2>
+                <C3-1 fixedByGrid="true" fixedByUser="false" value="6" candidates="" />
+                <C3-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R2>
+            <R3>
+                <C4-1 fixedByGrid="true" fixedByUser="false" value="4" candidates="" />
+                <C4-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-6 fixedByGrid="true" fixedByUser="false" value="5" candidates="" />
+            </R3>
+            <R4>
+                <C5-1 fixedByGrid="true" fixedByUser="false" value="5" candidates="" />
+                <C5-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-5 fixedByGrid="true" fixedByUser="false" value="4" candidates="" />
+                <C5-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R4>
+            <R5>
+                <C6-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-3 fixedByGrid="true" fixedByUser="false" value="1" candidates="" />
+                <C6-4 fixedByGrid="true" fixedByUser="false" value="2" candidates="" />
+                <C6-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R5>
+            <R6>
+                <C7-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-6 fixedByGrid="true" fixedByUser="false" value="1" candidates="" />
+            </R6>
+        </Grid>
+    </Six>
+    <Huit>
+        <Grid>
+            <R1>
+                <C2-1 fixedByGrid="true" fixedByUser="false" value="2" candidates="" />
+                <C2-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-4 fixedByGrid="true" fixedByUser="false" value="6" candidates="" />
+                <C2-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-8 fixedByGrid="true" fixedByUser="false" value="8" candidates="" />
+            </R1>
+            <R2>
+                <C3-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-2 fixedByGrid="true" fixedByUser="false" value="5" candidates="" />
+                <C3-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-7 fixedByGrid="true" fixedByUser="false" value="3" candidates="" />
+                <C3-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R2>
+            <R3>
+                <C4-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-2 fixedByGrid="true" fixedByUser="false" value="6" candidates="" />
+                <C4-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-5 fixedByGrid="true" fixedByUser="false" value="2" candidates="" />
+                <C4-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R3>
+            <R4>
+                <C5-1 fixedByGrid="true" fixedByUser="false" value="4" candidates="" />
+                <C5-2 fixedByGrid="true" fixedByUser="false" value="7" candidates="" />
+                <C5-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-5 fixedByGrid="true" fixedByUser="false" value="3" candidates="" />
+                <C5-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R4>
+            <R5>
+                <C6-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-2 fixedByGrid="true" fixedByUser="false" value="1" candidates="" />
+                <C6-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R5>
+            <R6>
+                <C7-1 fixedByGrid="true" fixedByUser="false" value="5" candidates="" />
+                <C7-2 fixedByGrid="true" fixedByUser="false" value="8" candidates="" />
+                <C7-3 fixedByGrid="true" fixedByUser="false" value="2" candidates="" />
+                <C7-4 fixedByGrid="true" fixedByUser="false" value="7" candidates="" />
+                <C7-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-7 fixedByGrid="true" fixedByUser="false" value="6" candidates="" />
+                <C7-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R6>
+            <R7>
+                <C8-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-8 fixedByGrid="true" fixedByUser="false" value="1" candidates="" />
+            </R7>
+            <R8>
+                <C9-1 fixedByGrid="true" fixedByUser="false" value="7" candidates="" />
+                <C9-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-4 fixedByGrid="true" fixedByUser="false" value="4" candidates="" />
+                <C9-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-6 fixedByGrid="true" fixedByUser="false" value="8" candidates="" />
+                <C9-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-8 fixedByGrid="true" fixedByUser="false" value="2" candidates="" />
+            </R8>
+        </Grid>
+    </Huit>
+    <Neuf>
+        <Grid>
+            <R1>
+                <C2-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-3 fixedByGrid="true" fixedByUser="false" value="5" candidates="" />
+                <C2-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-6 fixedByGrid="true" fixedByUser="false" value="4" candidates="" />
+                <C2-7 fixedByGrid="true" fixedByUser="false" value="1" candidates="" />
+                <C2-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-9 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R1>
+            <R2>
+                <C3-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-2 fixedByGrid="true" fixedByUser="false" value="8" candidates="" />
+                <C3-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-5 fixedByGrid="true" fixedByUser="false" value="9" candidates="" />
+                <C3-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-9 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R2>
+            <R3>
+                <C4-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-7 fixedByGrid="true" fixedByUser="false" value="8" candidates="" />
+                <C4-8 fixedByGrid="true" fixedByUser="false" value="3" candidates="" />
+                <C4-9 fixedByGrid="true" fixedByUser="false" value="2" candidates="" />
+            </R3>
+            <R4>
+                <C5-1 fixedByGrid="true" fixedByUser="false" value="5" candidates="" />
+                <C5-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-4 fixedByGrid="true" fixedByUser="false" value="6" candidates="" />
+                <C5-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-6 fixedByGrid="true" fixedByUser="false" value="2" candidates="" />
+                <C5-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-9 fixedByGrid="true" fixedByUser="false" value="4" candidates="" />
+            </R4>
+            <R5>
+                <C6-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-2 fixedByGrid="true" fixedByUser="false" value="9" candidates="" />
+                <C6-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-6 fixedByGrid="true" fixedByUser="false" value="1" candidates="" />
+                <C6-7 fixedByGrid="true" fixedByUser="false" value="2" candidates="" />
+                <C6-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-9 fixedByGrid="true" fixedByUser="false" value="7" candidates="" />
+            </R5>
+            <R6>
+                <C7-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-3 fixedByGrid="true" fixedByUser="false" value="2" candidates="" />
+                <C7-4 fixedByGrid="true" fixedByUser="false" value="5" candidates="" />
+                <C7-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-9 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R6>
+            <R7>
+                <C8-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-3 fixedByGrid="true" fixedByUser="false" value="6" candidates="" />
+                <C8-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-9 fixedByGrid="true" fixedByUser="false" value="8" candidates="" />
+            </R7>
+            <R8>
+                <C9-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-3 fixedByGrid="true" fixedByUser="false" value="8" candidates="" />
+                <C9-4 fixedByGrid="true" fixedByUser="false" value="7" candidates="" />
+                <C9-5 fixedByGrid="true" fixedByUser="false" value="6" candidates="" />
+                <C9-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-8 fixedByGrid="true" fixedByUser="false" value="2" candidates="" />
+                <C9-9 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R8>
+            <R9>
+                <C10-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C10-2 fixedByGrid="true" fixedByUser="false" value="4" candidates="" />
+                <C10-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C10-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C10-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C10-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C10-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C10-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C10-9 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R9>
+        </Grid>
+    </Neuf>
+    <Dix>
+        <Grid>
+            <R1>
+                <C2-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-7 fixedByGrid="true" fixedByUser="false" value="5" candidates="" />
+                <C2-8 fixedByGrid="true" fixedByUser="false" value="4" candidates="" />
+                <C2-9 fixedByGrid="true" fixedByUser="false" value="1" candidates="" />
+                <C2-10 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R1>
+            <R2>
+                <C3-1 fixedByGrid="true" fixedByUser="false" value="4" candidates="" />
+                <C3-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-4 fixedByGrid="true" fixedByUser="false" value="8" candidates="" />
+                <C3-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-9 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-10 fixedByGrid="true" fixedByUser="false" value="9" candidates="" />
+            </R2>
+            <R3>
+                <C4-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-2 fixedByGrid="true" fixedByUser="false" value="9" candidates="" />
+                <C4-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-7 fixedByGrid="true" fixedByUser="false" value="3" candidates="" />
+                <C4-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-9 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-10 fixedByGrid="true" fixedByUser="false" value="1" candidates="" />
+            </R3>
+            <R4>
+                <C5-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-2 fixedByGrid="true" fixedByUser="false" value="1" candidates="" />
+                <C5-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-4 fixedByGrid="true" fixedByUser="false" value="10" candidates="" />
+                <C5-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-6 fixedByGrid="true" fixedByUser="false" value="8" candidates="" />
+                <C5-7 fixedByGrid="true" fixedByUser="false" value="2" candidates="" />
+                <C5-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-9 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-10 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R4>
+            <R5>
+                <C6-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-2 fixedByGrid="true" fixedByUser="false" value="10" candidates="" />
+                <C6-3 fixedByGrid="true" fixedByUser="false" value="3" candidates="" />
+                <C6-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-6 fixedByGrid="true" fixedByUser="false" value="2" candidates="" />
+                <C6-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-8 fixedByGrid="true" fixedByUser="false" value="4" candidates="" />
+                <C6-9 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-10 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R5>
+            <R6>
+                <C7-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-4 fixedByGrid="true" fixedByUser="false" value="9" candidates="" />
+                <C7-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-6 fixedByGrid="true" fixedByUser="false" value="3" candidates="" />
+                <C7-7 fixedByGrid="true" fixedByUser="false" value="6" candidates="" />
+                <C7-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-9 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-10 fixedByGrid="true" fixedByUser="false" value="7" candidates="" />
+            </R6>
+            <R7>
+                <C8-1 fixedByGrid="true" fixedByUser="false" value="3" candidates="" />
+                <C8-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-4 fixedByGrid="true" fixedByUser="false" value="7" candidates="" />
+                <C8-5 fixedByGrid="true" fixedByUser="false" value="5" candidates="" />
+                <C8-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-9 fixedByGrid="true" fixedByUser="false" value="6" candidates="" />
+                <C8-10 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R7>
+            <R8>
+                <C9-1 fixedByGrid="true" fixedByUser="false" value="8" candidates="" />
+                <C9-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-5 fixedByGrid="true" fixedByUser="false" value="4" candidates="" />
+                <C9-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-9 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-10 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R8>
+            <R9>
+                <C10-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C10-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C10-3 fixedByGrid="true" fixedByUser="false" value="1" candidates="" />
+                <C10-4 fixedByGrid="true" fixedByUser="false" value="2" candidates="" />
+                <C10-5 fixedByGrid="true" fixedByUser="false" value="9" candidates="" />
+                <C10-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C10-7 fixedByGrid="true" fixedByUser="false" value="7" candidates="" />
+                <C10-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C10-9 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C10-10 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R9>
+            <R10>
+                <C11-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C11-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C11-3 fixedByGrid="true" fixedByUser="false" value="7" candidates="" />
+                <C11-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C11-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C11-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C11-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C11-8 fixedByGrid="true" fixedByUser="false" value="10" candidates="" />
+                <C11-9 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C11-10 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R10>
+        </Grid>
+    </Dix>
+    <Douze>
+        <Grid>
+            <R1>
+                <C2-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-3 fixedByGrid="true" fixedByUser="false" value="1" candidates="" />
+                <C2-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-5 fixedByGrid="true" fixedByUser="false" value="6" candidates="" />
+                <C2-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-7 fixedByGrid="true" fixedByUser="false" value="2" candidates="" />
+                <C2-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-9 fixedByGrid="true" fixedByUser="false" value="10" candidates="" />
+                <C2-10 fixedByGrid="true" fixedByUser="false" value="7" candidates="" />
+                <C2-11 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-12 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R1>
+            <R2>
+                <C3-1 fixedByGrid="true" fixedByUser="false" value="6" candidates="" />
+                <C3-2 fixedByGrid="true" fixedByUser="false" value="2" candidates="" />
+                <C3-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-4 fixedByGrid="true" fixedByUser="false" value="5" candidates="" />
+                <C3-5 fixedByGrid="true" fixedByUser="false" value="11" candidates="" />
+                <C3-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-9 fixedByGrid="true" fixedByUser="false" value="1" candidates="" />
+                <C3-10 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-11 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-12 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R2>
+            <R3>
+                <C4-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-2 fixedByGrid="true" fixedByUser="false" value="8" candidates="" />
+                <C4-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-7 fixedByGrid="true" fixedByUser="false" value="12" candidates="" />
+                <C4-8 fixedByGrid="true" fixedByUser="false" value="3" candidates="" />
+                <C4-9 fixedByGrid="true" fixedByUser="false" value="11" candidates="" />
+                <C4-10 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-11 fixedByGrid="true" fixedByUser="false" value="6" candidates="" />
+                <C4-12 fixedByGrid="true" fixedByUser="false" value="2" candidates="" />
+            </R3>
+            <R4>
+                <C5-1 fixedByGrid="true" fixedByUser="false" value="10" candidates="" />
+                <C5-2 fixedByGrid="true" fixedByUser="false" value="9" candidates="" />
+                <C5-3 fixedByGrid="true" fixedByUser="false" value="7" candidates="" />
+                <C5-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-5 fixedByGrid="true" fixedByUser="false" value="2" candidates="" />
+                <C5-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-7 fixedByGrid="true" fixedByUser="false" value="6" candidates="" />
+                <C5-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-9 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-10 fixedByGrid="true" fixedByUser="false" value="11" candidates="" />
+                <C5-11 fixedByGrid="true" fixedByUser="false" value="5" candidates="" />
+                <C5-12 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R4>
+            <R5>
+                <C6-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-2 fixedByGrid="true" fixedByUser="false" value="5" candidates="" />
+                <C6-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-9 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-10 fixedByGrid="true" fixedByUser="false" value="3" candidates="" />
+                <C6-11 fixedByGrid="true" fixedByUser="false" value="7" candidates="" />
+                <C6-12 fixedByGrid="true" fixedByUser="false" value="12" candidates="" />
+            </R5>
+            <R6>
+                <C7-1 fixedByGrid="true" fixedByUser="false" value="3" candidates="" />
+                <C7-2 fixedByGrid="true" fixedByUser="false" value="11" candidates="" />
+                <C7-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-8 fixedByGrid="true" fixedByUser="false" value="7" candidates="" />
+                <C7-9 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-10 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-11 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-12 fixedByGrid="true" fixedByUser="false" value="9" candidates="" />
+            </R6>
+            <R7>
+                <C8-1 fixedByGrid="true" fixedByUser="false" value="5" candidates="" />
+                <C8-2 fixedByGrid="true" fixedByUser="false" value="7" candidates="" />
+                <C8-3 fixedByGrid="true" fixedByUser="false" value="11" candidates="" />
+                <C8-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-5 fixedByGrid="true" fixedByUser="false" value="4" candidates="" />
+                <C8-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-9 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-10 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-11 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-12 fixedByGrid="true" fixedByUser="false" value="1" candidates="" />
+            </R7>
+            <R8>
+                <C9-1 fixedByGrid="true" fixedByUser="false" value="8" candidates="" />
+                <C9-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-8 fixedByGrid="true" fixedByUser="false" value="10" candidates="" />
+                <C9-9 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-10 fixedByGrid="true" fixedByUser="false" value="9" candidates="" />
+                <C9-11 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-12 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R8>
+            <R9>
+                <C10-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C10-2 fixedByGrid="true" fixedByUser="false" value="4" candidates="" />
+                <C10-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C10-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C10-5 fixedByGrid="true" fixedByUser="false" value="9" candidates="" />
+                <C10-6 fixedByGrid="true" fixedByUser="false" value="7" candidates="" />
+                <C10-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C10-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C10-9 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C10-10 fixedByGrid="true" fixedByUser="false" value="6" candidates="" />
+                <C10-11 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C10-12 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R9>
+            <R10>
+                <C11-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C11-2 fixedByGrid="true" fixedByUser="false" value="1" candidates="" />
+                <C11-3 fixedByGrid="true" fixedByUser="false" value="12" candidates="" />
+                <C11-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C11-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C11-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C11-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C11-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C11-9 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C11-10 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C11-11 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C11-12 fixedByGrid="true" fixedByUser="false" value="11" candidates="" />
+            </R10>
+            <R11>
+                <C12-1 fixedByGrid="true" fixedByUser="false" value="4" candidates="" />
+                <C12-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C12-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C12-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C12-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C12-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C12-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C12-8 fixedByGrid="true" fixedByUser="false" value="2" candidates="" />
+                <C12-9 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C12-10 fixedByGrid="true" fixedByUser="false" value="12" candidates="" />
+                <C12-11 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C12-12 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R11>
+            <R12>
+                <C13-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C13-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C13-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C13-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C13-5 fixedByGrid="true" fixedByUser="false" value="5" candidates="" />
+                <C13-6 fixedByGrid="true" fixedByUser="false" value="12" candidates="" />
+                <C13-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C13-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C13-9 fixedByGrid="true" fixedByUser="false" value="7" candidates="" />
+                <C13-10 fixedByGrid="true" fixedByUser="false" value="1" candidates="" />
+                <C13-11 fixedByGrid="true" fixedByUser="false" value="2" candidates="" />
+                <C13-12 fixedByGrid="true" fixedByUser="false" value="6" candidates="" />
+            </R12>
+        </Grid>
+    </Douze>
+    <Seize>
+        <Grid>
+            <R1>
+                <C2-1 fixedByGrid="true" fixedByUser="false" value="7" candidates="" />
+                <C2-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-5 fixedByGrid="true" fixedByUser="false" value="5" candidates="" />
+                <C2-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-9 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-10 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-11 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-12 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-13 fixedByGrid="true" fixedByUser="false" value="13" candidates="" />
+                <C2-14 fixedByGrid="true" fixedByUser="false" value="15" candidates="" />
+                <C2-15 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C2-16 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R1>
+            <R2>
+                <C3-1 fixedByGrid="true" fixedByUser="false" value="11" candidates="" />
+                <C3-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-3 fixedByGrid="true" fixedByUser="false" value="5" candidates="" />
+                <C3-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-5 fixedByGrid="true" fixedByUser="false" value="13" candidates="" />
+                <C3-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-8 fixedByGrid="true" fixedByUser="false" value="2" candidates="" />
+                <C3-9 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-10 fixedByGrid="true" fixedByUser="false" value="12" candidates="" />
+                <C3-11 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-12 fixedByGrid="true" fixedByUser="false" value="4" candidates="" />
+                <C3-13 fixedByGrid="true" fixedByUser="false" value="6" candidates="" />
+                <C3-14 fixedByGrid="true" fixedByUser="false" value="9" candidates="" />
+                <C3-15 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C3-16 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R2>
+            <R3>
+                <C4-1 fixedByGrid="true" fixedByUser="false" value="1" candidates="" />
+                <C4-2 fixedByGrid="true" fixedByUser="false" value="16" candidates="" />
+                <C4-3 fixedByGrid="true" fixedByUser="false" value="2" candidates="" />
+                <C4-4 fixedByGrid="true" fixedByUser="false" value="9" candidates="" />
+                <C4-5 fixedByGrid="true" fixedByUser="false" value="10" candidates="" />
+                <C4-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-8 fixedByGrid="true" fixedByUser="false" value="7" candidates="" />
+                <C4-9 fixedByGrid="true" fixedByUser="false" value="6" candidates="" />
+                <C4-10 fixedByGrid="true" fixedByUser="false" value="15" candidates="" />
+                <C4-11 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-12 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-13 fixedByGrid="true" fixedByUser="false" value="12" candidates="" />
+                <C4-14 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C4-15 fixedByGrid="true" fixedByUser="false" value="4" candidates="" />
+                <C4-16 fixedByGrid="true" fixedByUser="false" value="3" candidates="" />
+            </R3>
+            <R4>
+                <C5-1 fixedByGrid="true" fixedByUser="false" value="13" candidates="" />
+                <C5-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-7 fixedByGrid="true" fixedByUser="false" value="16" candidates="" />
+                <C5-8 fixedByGrid="true" fixedByUser="false" value="8" candidates="" />
+                <C5-9 fixedByGrid="true" fixedByUser="false" value="10" candidates="" />
+                <C5-10 fixedByGrid="true" fixedByUser="false" value="1" candidates="" />
+                <C5-11 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-12 fixedByGrid="true" fixedByUser="false" value="9" candidates="" />
+                <C5-13 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-14 fixedByGrid="true" fixedByUser="false" value="5" candidates="" />
+                <C5-15 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C5-16 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R4>
+            <R5>
+                <C6-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-3 fixedByGrid="true" fixedByUser="false" value="16" candidates="" />
+                <C6-4 fixedByGrid="true" fixedByUser="false" value="11" candidates="" />
+                <C6-5 fixedByGrid="true" fixedByUser="false" value="9" candidates="" />
+                <C6-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-9 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-10 fixedByGrid="true" fixedByUser="false" value="8" candidates="" />
+                <C6-11 fixedByGrid="true" fixedByUser="false" value="1" candidates="" />
+                <C6-12 fixedByGrid="true" fixedByUser="false" value="15" candidates="" />
+                <C6-13 fixedByGrid="true" fixedByUser="false" value="14" candidates="" />
+                <C6-14 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-15 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C6-16 fixedByGrid="true" fixedByUser="false" value="5" candidates="" />
+            </R5>
+            <R6>
+                <C7-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-2 fixedByGrid="true" fixedByUser="false" value="13" candidates="" />
+                <C7-3 fixedByGrid="true" fixedByUser="false" value="7" candidates="" />
+                <C7-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-6 fixedByGrid="true" fixedByUser="false" value="4" candidates="" />
+                <C7-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-9 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-10 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-11 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-12 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C7-13 fixedByGrid="true" fixedByUser="false" value="1" candidates="" />
+                <C7-14 fixedByGrid="true" fixedByUser="false" value="16" candidates="" />
+                <C7-15 fixedByGrid="true" fixedByUser="false" value="3" candidates="" />
+                <C7-16 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R6>
+            <R7>
+                <C8-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-2 fixedByGrid="true" fixedByUser="false" value="10" candidates="" />
+                <C8-3 fixedByGrid="true" fixedByUser="false" value="15" candidates="" />
+                <C8-4 fixedByGrid="true" fixedByUser="false" value="8" candidates="" />
+                <C8-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-7 fixedByGrid="true" fixedByUser="false" value="1" candidates="" />
+                <C8-8 fixedByGrid="true" fixedByUser="false" value="5" candidates="" />
+                <C8-9 fixedByGrid="true" fixedByUser="false" value="3" candidates="" />
+                <C8-10 fixedByGrid="true" fixedByUser="false" value="13" candidates="" />
+                <C8-11 fixedByGrid="true" fixedByUser="false" value="14" candidates="" />
+                <C8-12 fixedByGrid="true" fixedByUser="false" value="11" candidates="" />
+                <C8-13 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C8-14 fixedByGrid="true" fixedByUser="false" value="4" candidates="" />
+                <C8-15 fixedByGrid="true" fixedByUser="false" value="6" candidates="" />
+                <C8-16 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R7>
+            <R8>
+                <C9-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-5 fixedByGrid="true" fixedByUser="false" value="14" candidates="" />
+                <C9-6 fixedByGrid="true" fixedByUser="false" value="8" candidates="" />
+                <C9-7 fixedByGrid="true" fixedByUser="false" value="13" candidates="" />
+                <C9-8 fixedByGrid="true" fixedByUser="false" value="10" candidates="" />
+                <C9-9 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-10 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-11 fixedByGrid="true" fixedByUser="false" value="4" candidates="" />
+                <C9-12 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-13 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-14 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C9-15 fixedByGrid="true" fixedByUser="false" value="7" candidates="" />
+                <C9-16 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R8>
+            <R9>
+                <C10-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C10-2 fixedByGrid="true" fixedByUser="false" value="6" candidates="" />
+                <C10-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C10-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C10-5 fixedByGrid="true" fixedByUser="false" value="12" candidates="" />
+                <C10-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C10-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C10-8 fixedByGrid="true" fixedByUser="false" value="1" candidates="" />
+                <C10-9 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C10-10 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C10-11 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C10-12 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C10-13 fixedByGrid="true" fixedByUser="false" value="10" candidates="" />
+                <C10-14 fixedByGrid="true" fixedByUser="false" value="14" candidates="" />
+                <C10-15 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C10-16 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R9>
+            <R10>
+                <C11-1 fixedByGrid="true" fixedByUser="false" value="3" candidates="" />
+                <C11-2 fixedByGrid="true" fixedByUser="false" value="9" candidates="" />
+                <C11-3 fixedByGrid="true" fixedByUser="false" value="14" candidates="" />
+                <C11-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C11-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C11-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C11-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C11-8 fixedByGrid="true" fixedByUser="false" value="4" candidates="" />
+                <C11-9 fixedByGrid="true" fixedByUser="false" value="1" candidates="" />
+                <C11-10 fixedByGrid="true" fixedByUser="false" value="11" candidates="" />
+                <C11-11 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C11-12 fixedByGrid="true" fixedByUser="false" value="7" candidates="" />
+                <C11-13 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C11-14 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C11-15 fixedByGrid="true" fixedByUser="false" value="5" candidates="" />
+                <C11-16 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R10>
+            <R11>
+                <C12-1 fixedByGrid="true" fixedByUser="false" value="15" candidates="" />
+                <C12-2 fixedByGrid="true" fixedByUser="false" value="11" candidates="" />
+                <C12-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C12-4 fixedByGrid="true" fixedByUser="false" value="7" candidates="" />
+                <C12-5 fixedByGrid="true" fixedByUser="false" value="8" candidates="" />
+                <C12-6 fixedByGrid="true" fixedByUser="false" value="5" candidates="" />
+                <C12-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C12-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C12-9 fixedByGrid="true" fixedByUser="false" value="13" candidates="" />
+                <C12-10 fixedByGrid="true" fixedByUser="false" value="3" candidates="" />
+                <C12-11 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C12-12 fixedByGrid="true" fixedByUser="false" value="2" candidates="" />
+                <C12-13 fixedByGrid="true" fixedByUser="false" value="16" candidates="" />
+                <C12-14 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C12-15 fixedByGrid="true" fixedByUser="false" value="1" candidates="" />
+                <C12-16 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R11>
+            <R12>
+                <C13-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C13-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C13-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C13-4 fixedByGrid="true" fixedByUser="false" value="13" candidates="" />
+                <C13-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C13-6 fixedByGrid="true" fixedByUser="false" value="6" candidates="" />
+                <C13-7 fixedByGrid="true" fixedByUser="false" value="10" candidates="" />
+                <C13-8 fixedByGrid="true" fixedByUser="false" value="11" candidates="" />
+                <C13-9 fixedByGrid="true" fixedByUser="false" value="12" candidates="" />
+                <C13-10 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C13-11 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C13-12 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C13-13 fixedByGrid="true" fixedByUser="false" value="9" candidates="" />
+                <C13-14 fixedByGrid="true" fixedByUser="false" value="3" candidates="" />
+                <C13-15 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C13-16 fixedByGrid="true" fixedByUser="false" value="7" candidates="" />
+            </R12>
+            <R13>
+                <C14-1 fixedByGrid="true" fixedByUser="false" value="14" candidates="" />
+                <C14-2 fixedByGrid="true" fixedByUser="false" value="15" candidates="" />
+                <C14-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C14-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C14-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C14-6 fixedByGrid="true" fixedByUser="false" value="11" candidates="" />
+                <C14-7 fixedByGrid="true" fixedByUser="false" value="8" candidates="" />
+                <C14-8 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C14-9 fixedByGrid="true" fixedByUser="false" value="4" candidates="" />
+                <C14-10 fixedByGrid="true" fixedByUser="false" value="7" candidates="" />
+                <C14-11 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C14-12 fixedByGrid="true" fixedByUser="false" value="10" candidates="" />
+                <C14-13 fixedByGrid="true" fixedByUser="false" value="5" candidates="" />
+                <C14-14 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C14-15 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C14-16 fixedByGrid="true" fixedByUser="false" value="16" candidates="" />
+            </R13>
+            <R14>
+                <C15-1 fixedByGrid="true" fixedByUser="false" value="8" candidates="" />
+                <C15-2 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C15-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C15-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C15-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C15-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C15-7 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C15-8 fixedByGrid="true" fixedByUser="false" value="13" candidates="" />
+                <C15-9 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C15-10 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C15-11 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C15-12 fixedByGrid="true" fixedByUser="false" value="6" candidates="" />
+                <C15-13 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C15-14 fixedByGrid="true" fixedByUser="false" value="10" candidates="" />
+                <C15-15 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C15-16 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R14>
+            <R15>
+                <C16-1 fixedByGrid="true" fixedByUser="false" value="10" candidates="" />
+                <C16-2 fixedByGrid="true" fixedByUser="false" value="7" candidates="" />
+                <C16-3 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C16-4 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C16-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C16-6 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C16-7 fixedByGrid="true" fixedByUser="false" value="5" candidates="" />
+                <C16-8 fixedByGrid="true" fixedByUser="false" value="14" candidates="" />
+                <C16-9 fixedByGrid="true" fixedByUser="false" value="15" candidates="" />
+                <C16-10 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C16-11 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C16-12 fixedByGrid="true" fixedByUser="false" value="13" candidates="" />
+                <C16-13 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C16-14 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C16-15 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C16-16 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+            </R15>
+            <R16>
+                <C17-1 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C17-2 fixedByGrid="true" fixedByUser="false" value="5" candidates="" />
+                <C17-3 fixedByGrid="true" fixedByUser="false" value="6" candidates="" />
+                <C17-4 fixedByGrid="true" fixedByUser="false" value="3" candidates="" />
+                <C17-5 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C17-6 fixedByGrid="true" fixedByUser="false" value="10" candidates="" />
+                <C17-7 fixedByGrid="true" fixedByUser="false" value="9" candidates="" />
+                <C17-8 fixedByGrid="true" fixedByUser="false" value="16" candidates="" />
+                <C17-9 fixedByGrid="true" fixedByUser="false" value="14" candidates="" />
+                <C17-10 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C17-11 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C17-12 fixedByGrid="false" fixedByUser="false" value="0" candidates="" />
+                <C17-13 fixedByGrid="true" fixedByUser="false" value="11" candidates="" />
+                <C17-14 fixedByGrid="true" fixedByUser="false" value="7" candidates="" />
+                <C17-15 fixedByGrid="true" fixedByUser="false" value="12" candidates="" />
+                <C17-16 fixedByGrid="true" fixedByUser="false" value="13" candidates="" />
+            </R16>
+        </Grid>
+    </Seize>
+</Racine>
