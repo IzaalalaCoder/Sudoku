@@ -30,7 +30,7 @@ Voici les ajouts possibles sur le logiciel :
   - Les derniers algorithmes utilisées pour résoudre une grille de sudoku (elles sont toujours en mode test sur le logiciel)
   - Enregistrer un nouveau template non existant à partir d'une grille rempli par l'utilisateur
 
-Pour plus d'information sur ce projet, le rapport se trouve dans le dossier sudoku/.
+Pour plus d'information sur ce projet, le rapport se trouve dans le dossier sudoku/templates/rapport_de_projet.pdf.
 
 ATTENTION au public ! 
 Le jar est à inclure dans le votre application sinon le projet ne fonctionnera pas. 
