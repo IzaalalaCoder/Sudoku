@@ -25,7 +25,7 @@ Projet sur le sujet du Sudoku format PC pour le projet application informatique 
   - Sauvegarder la grille courant
 
 Fini mais on a omis de faire (Dont je pourrais très bien le faire) : 
-  - Les derniers algorithmes utilisées pour résoudre une grille de sudoku (elle sont toujours en mode test sur le logiciel)
+  - Les derniers algorithmes utilisées pour résoudre une grille de sudoku (elles sont toujours en mode test sur le logiciel)
   - Enregistrer un nouveau template non existant à partir d'une grille rempli par l'utilisateur
 
 ATTENTION au public ! 
